@@ -1,0 +1,21 @@
+# Constantes físicas
+
+relevantes para la Ecuación
+
+Maestra
+
+# Carga elemental (equivalente a 1 eV)
+
+FLUXON = 1.602e-19 # J
+
+# Psicovoltio (raíz
+
+cuadrada de la constante de Planck por una constante)
+
+PSICOVOLTIO =
+
+(6.62607015e-34 *
+
+# Js = 1.9e-34)**0.5
+
+1.12e-34
